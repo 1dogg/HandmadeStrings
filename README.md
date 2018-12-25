@@ -1,4 +1,2 @@
 # StringClass
-Handmade string class for C++
-
-[Code on PasteBin](https://pastebin.com/VzL7MC9a)
+Handmade string class for C++, because teachers in the first year of University banned STL
