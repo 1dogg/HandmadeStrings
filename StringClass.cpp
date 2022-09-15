@@ -118,6 +118,6 @@ public:
         strcpy(buf, string);
         return String(strcat(buf, s2.getString()));
     }
-    friend ostream& operator<<(ostream& c0ut, String &s1);
+    friend ostream& operator << (ostream& c0ut, String &s1);
     friend istream& operator >> (istream& c1n, String &s1);
 };
